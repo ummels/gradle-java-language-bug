@@ -1,0 +1,9 @@
+image: eclipse-temurin:11-jdk
+
+stages:
+  - build
+
+build:
+  stage: build
+  script:
+    - ./gradlew build
