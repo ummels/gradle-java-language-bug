@@ -1,0 +1,13 @@
+# Intellij
+.idea/
+*.iml
+*.iws
+
+# Gradle
+.gradle/
+build/
+
+# Sonstiges
+.DS_Store
+*.bak
+*.log
